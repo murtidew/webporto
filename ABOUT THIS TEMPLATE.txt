@@ -1,0 +1,7 @@
+PROJEK LARAVEL
+
+1.buat projek laravel menggunakan terminal
+2.cek apakah server laravel sudah jalan apa belum
+3.masuk ke dalam file env untuk menyambungkan database
+4.masuk ke dalam file controller untuk mengisi tabel database
+5.masuk ke dalam web php untuk menambahkan route
